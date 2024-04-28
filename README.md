@@ -33,3 +33,6 @@ Whether you're a hobbyist looking to automate your backyard garden or a professi
 * `Environmental Monitoring:` Monitor temperature, humidity, and other environmental parameters to ensure optimal growing conditions and prevent crop damage.
 * `Remote Control and Monitoring:` Utilize the IR remote controller and WiFi module to remotely monitor and control your smart farm system from anywhere, providing convenience and peace of mind.
 Unlock the full potential of your farm with the Arduino UNO R4 Minima Smart Farm Kit. Whether you're a novice or a seasoned expert, it's your gateway to smarter, more efficient farming practices.
+
+### Arduino IDE Download:
+* Arduino IDE download: [Official Download](https://www.arduino.cc/en/software)
