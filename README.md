@@ -45,7 +45,7 @@ Unlock the full potential of your farm with the Arduino UNO R4 Minima Smart Farm
 ![Features](https://github.com/geeekpi/Arduino_uno_r4_minima_kit/blob/main/imgs/KZ-0056-3.jpg)
 
 *  USB Flash Storage the Demo codes and documentations and so on.
-![Features](https://github.com/geeekpi/Arduino_uno_r4_minima_kit/blob/main/imgs/KZ-0056-5.jpg)
+![Features](https://github.com/geeekpi/Arduino_uno_r4_minima_kit/blob/main/imgs/KZ-0056-005.jpg)
 
 ### Arduino IDE Download:
 * Arduino IDE download: [Official Download](https://www.arduino.cc/en/software)
