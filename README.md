@@ -2,7 +2,7 @@
 SKU: KZ-0056  
 ## Description 
 Introducing the Arduino UNO R4 Minima Smart Farm Kit, the ultimate solution for enthusiasts and professionals alike looking to revolutionize their farming experience. Packed with an array of sensors, components, and advanced modules, this kit empowers you to create a smart and efficient farm system with ease.(Based on Arduino UNO R4 Minima Board) 
-
+![main Picture](https://github.com/geeekpi/Arduino_uno_r4_minima_kit/blob/main/imgs/K-0056-FarmProject.jpg)
 
 
 ## Key Features:
